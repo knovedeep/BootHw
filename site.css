@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Bebas+Neue&family=Rubik+Bubbles&family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+.mainnav {
+    position: fixed;
+    top:0;
+    border-style: double;
+    border-color: white;
+    padding: 10px 78.7% 3px 1%;
+    background-color: black;
+   
+   
+    
+}
+body {
+    color: plum;
+}
+
+.navbar {
+    background-color: rgb(131, 182, 152) !important;
+    padding: 10px 490% 10px 1%;
+    
+}
+
+.navbar-nav {
+    background-color: rgb(118, 172, 163);
+    font-size: 15px;
+    padding: 10px 599% 10px 1%;
+    float: right;
+    
+}
+.navbar-brand {
+    background-color: rgb(2, 138, 120);
+    padding: 25px;
+    font-size: 2em;
+    font-family: 'rubik bubbles';
+    padding: 1px 1px;
+}
+
+.jumbotron {
+    margin: 5% 0%;
+    background-color: black;
+    border-style: groove;
+    font-family: oswald;
+}
+#stuff {
+    font-family: oswald;
+   margin-left: 5%;
+
+}
+ul {
+    font-family: oswald
+}
+.mainfoot {
+    font-family: oswald;
+    background-color: black;
+    float: center;
+    margin-top: 1.5%;
+}
+footer div ul {
+    float: center;
+    margin-top: 1.5%;
+}
+#resour {
+    margin-top: 5%;
+    border-style: dashed black;
+    background-color: rgb(241, 216, 161);
+}
+
+#about {
+    margin-top: 0%;
+    border-style: dashed black;
+    background-color: rgb(241, 216, 161);
+}
